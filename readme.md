@@ -1,7 +1,7 @@
 ## bitLode Board
 ![bitLode early render](doc/bitLodePCBA.png)
 
-The bitLode PCBA is a USB adapter for Btmicro/Whatsminer M30 family of hashboards. It's based on the RaspberryPi RP2040.
+The bitLode PCBA is a USB adapter for Btmicro/Whatsminer M30 family of hashboards. It is based on the aditBoard V2 (https://github.com/skot/aditBoard/tree/v2).
 
 The bitLode board is designed primarily as an interface between the hashboards and a PC.
 
