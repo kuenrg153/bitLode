@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_edge_clearance|120936062|80850000|427f775a-9c0d-456b-9419-779b05dfc83a|6dc48d82-26d4-4f10-bf3f-b7a650c1f5ea",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -113,6 +108,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -490,7 +486,7 @@
     ]
   },
   "meta": {
-    "filename": "aditBoard.kicad_pro",
+    "filename": "bitLode.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -773,7 +769,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "aditBoard.kicad_wks",
+    "page_layout_descr_file": "bitLode.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
