@@ -528,7 +528,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Manufacturing Files/gerbers/",
-      "pos_files": "",
+      "pos_files": "Manufacturing Files/",
       "specctra_dsn": "",
       "step": "CAD/aditBoard.step",
       "svg": "",
