@@ -1,5 +1,6 @@
 ## bitLode V2
-<img width="1553" height="914" alt="image" src="https://github.com/kuenrg153/tree/v2/artwork/bitLode.jpg" />
+
+<img width="1553" height="914" alt="bitLode" src="https://github.com/user-attachments/assets/7fea08b6-41eb-446c-8886-ca716b659242" />
 
 bitLode V2 is an RP2040 USB adapter that connects a PC, laptop or Raspberry Pi to a Whatsminer M30 (and similar)
 hashboard. It exposes the hashboard's UART, reset and I2C over USB.
@@ -25,8 +26,8 @@ a) Fab houses might try to replace the cyrstal with an oscillator (learned this 
 b) The LED is hard to source - but it works fine with out it!
 
 c) Just do SMT at the fab house - solder the connector yourself and save a little bit. You can even try to sample the connector for free from Samtec - SQT-107-01-L-D-RA
-<img width="1553" height="914" alt="image" src="https://github.com/kuenrg153/bitLode/artwork/bitLode_2sides.jpg" />
 
+<img width="734" height="914" alt="bitLode_2sides" src="https://github.com/user-attachments/assets/f75d430c-eb11-4ff0-adf0-5109d1788bb0" />
 
 2. **Firmware** 
 The firmware is based on https://github.com/256foundation/emberone-usbserial-fw with a few modifications around baud rates.
