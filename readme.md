@@ -1,5 +1,5 @@
 ## bitLode V2
-<img width="1553" height="914" alt="image" src="https://github.com/kuenrg153/bitLode/artwork/bitLode.jpg" />
+<img width="1553" height="914" alt="image" src="https://github.com/kuenrg153/tree/v2/artwork/bitLode.jpg" />
 
 bitLode V2 is an RP2040 USB adapter that connects a PC, laptop or Raspberry Pi to a Whatsminer M30 (and similar)
 hashboard. It exposes the hashboard's UART, reset and I2C over USB.
