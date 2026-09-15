@@ -27,6 +27,10 @@ b) The LED is hard to source - but it works fine with out it!
 
 c) Just do SMT at the fab house - solder the connector yourself and save a little bit. You can even try to sample the connector for free from Samtec - SQT-107-01-L-D-RA
 
+d) Note that this version interferes with the fan in the original enclosure. If you're looking to use it long term in the enclosure you probably want to modify it (make the board into a bit of an upside down L and extend the header down) to clear the fan.
+
+e) Currently I have NOT made the AntHat (https://github.com/skot/AntHat) equivalent for controlling the Whatsminer PSU and fans. Let me know if there is interest there.
+
 <img width="734" height="914" alt="bitLode_2sides" src="https://github.com/user-attachments/assets/f75d430c-eb11-4ff0-adf0-5109d1788bb0" />
 
 2. **Firmware** 
