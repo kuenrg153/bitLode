@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2, C4";"C_0402_1005Metric";2;"30pF";;;
+2;"C5, C6, C7, C10, C11, C12, C13, C14, C15, C16";"C_0402_1005Metric";10;"0.1uF";;;
+3;"C8, C9, C17, C18";"C_0402_1005Metric";4;"1uF";;;
+4;"J1";"USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal";1;"USB_C_Receptacle_USB2.0";;;
+5;"J2";"PinSocket_2x07_P2.00mm_Horizontal";1;"Conn_02x07_Odd_Even";;;
+6;"R1";"R_0402_1005Metric";1;"10k";;;
+7;"R2, R3";"R_0402_1005Metric";2;"33";;;
+8;"R4, R5";"R_0402_1005Metric";2;"5.1k";;;
+9;"R6";"R_0402_1005Metric";1;"1k";;;
+10;"R7";"R_0402_1005Metric";1;"49.9k";;;
+11;"R25, R27";"R_0402_1005Metric";2;"4.7K";;;
+12;"U1";"LED-SMD_4P-L4.0-W1.6-L";1;"SK6812";;;
+13;"U2";"USON8_L2.0-W3.0-P0.50-BL-EP";1;"W25Q16JVUXIQ";;;
+14;"U3";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
+15;"U4";"SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL";1;"AP2112K-3.3TRG1";;;
+16;"Y1";"OSC-SMD_4P-L3.2-W2.5-BL";1;"12MHz";;;

@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "bitLodeV2") (type "KiCad") (uri "${KIPRJMOD}/bitLodeV2.pretty") (options "") (descr ""))
+)

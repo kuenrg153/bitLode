@@ -32,3 +32,12 @@ fp-info-cache
 *bak
 ~$bitaxeUltra BOM.xlsx
 *.zip
+
+# bitLode firmware and tools
+firmware/target/
+tools/jobpool/fresh_x81.bin
+sessions/
+captures/
+vendor/
+__pycache__/
+*.pyc
